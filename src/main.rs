@@ -2,11 +2,16 @@ mod data_structures;
 mod coding_test;
 
 fn main() {
+  // recursion
+  data_structures::recursion::run();
+
   // binary_search
-  data_structures::binary_search::run();
+  // data_structures::binary_search::run();
 
   // sequential search
   // data_structures::sequential_search::run();
+  //
+
 
   // insertion_sort
   // data_structures::insertion_sort::run(&mut arr);
