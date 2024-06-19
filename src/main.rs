@@ -3,7 +3,7 @@ mod coding_test;
 
 fn main() {
   // recursion
-  data_structures::recursion::run();
+  // data_structures::recursion::run();
 
   // binary_search
   // data_structures::binary_search::run();
