@@ -2,11 +2,11 @@ fn binary_search(arr: &[i32], find_num: i32, start: usize, end: usize) -> Result
   if start > end {
     return Err(find_num);
   }
-  
+
   // let middle_index = (((start + end) / 2) as f64).floor() as usize;
   let middle_index = (start + end) / 2;
   let try_find_num = arr[middle_index];
-  
+
   if middle_index == start {
     return Err(find_num);
   }
@@ -32,6 +32,4 @@ pub fn run() {
       println!("Fail to find num: {}", res);
     }
   }
-
-  
 }
