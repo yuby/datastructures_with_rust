@@ -3,7 +3,7 @@ mod coding_test;
 
 fn main() {
   // binary_search
-  data_structures::binary_search::run();
+  // data_structures::binary_search::run();
 
   // sequential search
   // data_structures::sequential_search::run();
@@ -19,6 +19,9 @@ fn main() {
 
   // swap
   // data_structures::swap::run();
+
+  // hinoi
+  coding_test::hinoi::run();
 
   // string_compression
   // coding_test::string_compresstion::run();
