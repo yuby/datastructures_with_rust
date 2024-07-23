@@ -2,6 +2,9 @@ mod data_structures;
 mod coding_test;
 
 fn main() {
+  // recursion_binary_search
+  data_structures::recursion_binary_search::run();
+
   // recursion
   // data_structures::recursion::run();
 
@@ -10,8 +13,6 @@ fn main() {
 
   // sequential search
   // data_structures::sequential_search::run();
-  //
-
 
   // insertion_sort
   // data_structures::insertion_sort::run(&mut arr);
@@ -26,7 +27,7 @@ fn main() {
   // data_structures::swap::run();
   //
   // fibonacci
-  coding_test::fibonacci::run();
+  // coding_test::fibonacci::run();
 
   // hinoi
   // coding_test::hinoi::run();
