@@ -24,9 +24,12 @@ fn main() {
 
   // swap
   // data_structures::swap::run();
-  //
+
+  // permutation
+  coding_test::permutation::run();
+
   // fibonacci
-  coding_test::fibonacci::run();
+  // coding_test::fibonacci::run();
 
   // hinoi
   // coding_test::hinoi::run();
