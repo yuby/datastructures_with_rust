@@ -6,23 +6,23 @@
 ## 목차
 
 ### 챕터 1: 기본 개념
-- 교환(Swap): data_structures/swap [v]
-- 선택 정렬: data_structures/selection_sort [v]
-- 버블 정렬: data_structures/bubble_sort [v]
-- 삽입 정렬: data_structures/insertion_sort [v]
-- 순차 탐색: data_structures/sequential_sort [v]
-- 문자열 압축: coding_test/string_compression [v]
-- 이진 탐색: data_structures/binary_search [v]
+<input type="checkbox" checked /> 교환(Swap): data_structures/swap <br/>
+<input type="checkbox" checked /> 선택 정렬: data_structures/selection_sort <br/>
+<input type="checkbox" checked /> 버블 정렬: data_structures/bubble_sort <br/>
+<input type="checkbox" checked /> 삽입 정렬: data_structures/insertion_sort <br/>
+<input type="checkbox" checked /> 순차 탐색: data_structures/sequential_sort <br/>
+<input type="checkbox" checked /> 문자열 압축: coding_test/string_compression <br/>
+<input type="checkbox" checked /> 이진 탐색: data_structures/binary_search <br/>
 
 ### 챕터 2: 재귀(Recursion)
-- 재귀 호출: data_structures/recursion [v]
-- 재귀로 합 구하기: data_structures/recursion [v]
-- 피보나치 수열: coding_test/fibinacci [v]
-- 재귀 이진 탐색: data_structures/recursion_binary_search [v]
-- 순열 문제: coding_test/permutation [v]
+<input type="checkbox" checked />  재귀 호출: data_structures/recursion <br/>
+<input type="checkbox" checked />  재귀로 합 구하기: data_structures/recursion <br/>
+<input type="checkbox" checked />  피보나치 수열: coding_test/fibinacci <br/>
+<input type="checkbox" checked />  재귀 이진 탐색: data_structures/recursion_binary_search <br/>
+<input type="checkbox" checked />  순열 문제: coding_test/permutation <br/>
 
 ### 챕터 3: 배열
-- 다항식: data_structures/polynomial
+<input type="checkbox" checked /> 다항식: data_structures/polynomial <br/>
 - 희소 다항식
 - 행렬
 - 동적 배열의 배열
