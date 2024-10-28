@@ -9,7 +9,7 @@ pub fn run() {
       let current_val = arr[inner_index];
       let next_val = arr[inner_index + 1];
 
-      if (current_val > next_val) {
+      if current_val > next_val {
         swap::swap(&mut arr, inner_index, inner_index + 1);
         println!("> {:?}", arr);
       }

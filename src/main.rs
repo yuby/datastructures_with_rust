@@ -2,6 +2,12 @@ mod data_structures;
 mod coding_test;
 
 fn main() {
+  // Polynomial
+  data_structures::polynomial::run();
+
+  // String ADT
+  // data_structures::string_adt::run();
+
   // recursion_binary_search
   // data_structures::recursion_binary_search::run();
 
@@ -27,7 +33,7 @@ fn main() {
   // data_structures::swap::run();
 
   // permutation
-  coding_test::permutation::run();
+  // coding_test::permutation::run();
 
   // fibonacci
   // coding_test::fibonacci::run();

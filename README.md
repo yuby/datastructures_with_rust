@@ -6,24 +6,23 @@
 ## 목차
 
 ### 챕터 1: 기본 개념
-- 교환(Swap) [v]
-- 선택 정렬 [v]
-- 버블 정렬 [v]
-- 삽입 정렬 [v]
-- 순차 탐색 [v]
-- 문자열 압축 [v]
-- 이진 탐색 [v]
+- 교환(Swap): data_structures/swap [v]
+- 선택 정렬: data_structures/selection_sort [v]
+- 버블 정렬: data_structures/bubble_sort [v]
+- 삽입 정렬: data_structures/insertion_sort [v]
+- 순차 탐색: data_structures/sequential_sort [v]
+- 문자열 압축: coding_test/string_compression [v]
+- 이진 탐색: data_structures/binary_search [v]
 
 ### 챕터 2: 재귀(Recursion)
-- 재귀 호출 [v]
-- 재귀로 합 구하기 [v]
-- 피보나치 수열 [v]
-- 재귀 이진 탐색
-- 순열 문제
+- 재귀 호출: data_structures/recursion [v]
+- 재귀로 합 구하기: data_structures/recursion [v]
+- 피보나치 수열: coding_test/fibinacci [v]
+- 재귀 이진 탐색: data_structures/recursion_binary_search [v]
+- 순열 문제: coding_test/permutation [v]
 
 ### 챕터 3: 배열
-- 문자열 ADT
-- 다항식
+- 다항식: data_structures/polynomial
 - 희소 다항식
 - 행렬
 - 동적 배열의 배열
