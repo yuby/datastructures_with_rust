@@ -6,7 +6,7 @@ trait PolynomialHelper {
     fn print(&self);
     fn add(&mut self, poly: &Polynomial);
     fn multiply(&mut self, poly: &Polynomial);
-    fn evaluation(&self, val: f32);
+    fn evaluation(&self, val: f32) -> f32;
 }
 
 #[derive(Debug)]
@@ -61,11 +61,11 @@ impl PolynomialHelper for Polynomial {
         self.poly = new_poly;
     }
 
-    fn evaluation(&self, value: f32) {
+    fn evaluation(&self, value: f32) -> f32 {
         let mut sum = 0.0;
         for index in 0..self.max_degree {
             if self.poly[index] != 0.0 {
-                sum = self.poly[index] * value.powi(index)
+                sum = self.poly[index] * value.powi(index as i32) + sum;
             }
         }
 
@@ -111,6 +111,8 @@ pub fn run() {
 
     poly.print();
 
+    println!("{:?}", poly.evaluation(1.0));
+
     let mut poly3 = Polynomial::new(10);
     let mut poly4 = Polynomial::new(10);
     poly3.add_term(1.0, 1);
@@ -122,4 +124,6 @@ pub fn run() {
     poly3.multiply(&poly4);
 
     poly3.print();
+
+    println!("{:?}", poly3.evaluation(3.0));
 }
