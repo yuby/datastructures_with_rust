@@ -6,8 +6,8 @@
 ## 목차
 
 ### 챕터 1: 기본 개념
-- [ x ] <input type="checkbox" checked />  교환(Swap): data_structures/swap <br/>
-- [ x ] <input type="checkbox" checked /> 선택 정렬: data_structures/selection_sort <br/>
+- [x] <input type="checkbox" checked />  교환(Swap): data_structures/swap <br/>
+- [x] <input type="checkbox" checked /> 선택 정렬: data_structures/selection_sort <br/>
 - [ x ] <input type="checkbox" checked /> 버블 정렬: data_structures/bubble_sort <br/>
 - [ x ] <input type="checkbox" checked /> 삽입 정렬: data_structures/insertion_sort <br/>
 - [ x ] <input type="checkbox" checked /> 순차 탐색: data_structures/sequential_sort <br/>
