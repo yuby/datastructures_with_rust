@@ -8,21 +8,21 @@
 ### 챕터 1: 기본 개념
 - [x] <input type="checkbox" checked />  교환(Swap): data_structures/swap <br/>
 - [x] <input type="checkbox" checked /> 선택 정렬: data_structures/selection_sort <br/>
-- [ x ] <input type="checkbox" checked /> 버블 정렬: data_structures/bubble_sort <br/>
-- [ x ] <input type="checkbox" checked /> 삽입 정렬: data_structures/insertion_sort <br/>
-- [ x ] <input type="checkbox" checked /> 순차 탐색: data_structures/sequential_sort <br/>
-- [ x ] <input type="checkbox" checked /> 문자열 압축: coding_test/string_compression <br/>
-- [ x ] <input type="checkbox" checked /> 이진 탐색: data_structures/binary_search <br/>
+- [x] <input type="checkbox" checked /> 버블 정렬: data_structures/bubble_sort <br/>
+- [x] <input type="checkbox" checked /> 삽입 정렬: data_structures/insertion_sort <br/>
+- [x] <input type="checkbox" checked /> 순차 탐색: data_structures/sequential_sort <br/>
+- [x] <input type="checkbox" checked /> 문자열 압축: coding_test/string_compression <br/>
+- [x] <input type="checkbox" checked /> 이진 탐색: data_structures/binary_search <br/>
 
 ### 챕터 2: 재귀(Recursion)
-- [ x ] <input type="checkbox" checked />  재귀 호출: data_structures/recursion <br/>
-- [ x ] <input type="checkbox" checked />  재귀로 합 구하기: data_structures/recursion <br/>
-- [ x ] <input type="checkbox" checked />  피보나치 수열: coding_test/fibinacci <br/>
-- [ x ] <input type="checkbox" checked />  재귀 이진 탐색: data_structures/recursion_binary_search <br/>
-- [ x ] <input type="checkbox" checked />  순열 문제: coding_test/permutation <br/>
+- [x] <input type="checkbox" checked />  재귀 호출: data_structures/recursion <br/>
+- [x] <input type="checkbox" checked />  재귀로 합 구하기: data_structures/recursion <br/>
+- [x] <input type="checkbox" checked />  피보나치 수열: coding_test/fibinacci <br/>
+- [x] <input type="checkbox" checked />  재귀 이진 탐색: data_structures/recursion_binary_search <br/>
+- [x] <input type="checkbox" checked />  순열 문제: coding_test/permutation <br/>
 
 ### 챕터 3: 배열
-- [ x ] <input type="checkbox" checked /> 다항식: data_structures/polynomial <br/>
+- [x] <input type="checkbox" checked /> 다항식: data_structures/polynomial <br/>
 - [ ] 희소 다항식
 - [ ] 행렬
 - [ ] 동적 배열의 배열
