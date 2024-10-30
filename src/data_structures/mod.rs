@@ -8,5 +8,6 @@ pub mod recursion;
 pub mod recursion_binary_search;
 pub mod string_adt;
 pub mod polynomial;
+pub mod sparse_polynomial;
 // pub mod array;
 // pub mod linked_list;

@@ -2,8 +2,10 @@ mod data_structures;
 mod coding_test;
 
 fn main() {
+  // Sparse Polynomial
+  data_structures::sparse_polynomial::run();
   // Polynomial
-  data_structures::polynomial::run();
+  // data_structures::polynomial::run();
 
   // String ADT
   // data_structures::string_adt::run();
