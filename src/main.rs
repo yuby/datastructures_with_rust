@@ -1,5 +1,5 @@
 mod data_structures;
-mod coding_test;
+mod problems;
 
 fn main() {
   // Sparse Polynomial
@@ -35,14 +35,14 @@ fn main() {
   // data_structures::swap::run();
 
   // permutation
-  // coding_test::permutation::run();
+  // problems::permutation::run();
 
   // fibonacci
-  // coding_test::fibonacci::run();
+  // problems::fibonacci::run();
 
   // hinoi
-  // coding_test::hinoi::run();
+  // problems::hinoi::run();
 
   // string_compression
-  // coding_test::string_compresstion::run();
+  // problems::string_compresstion::run();
 }
