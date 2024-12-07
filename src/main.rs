@@ -2,8 +2,12 @@ mod data_structures;
 mod problems;
 
 fn main() {
+  // Array(Matrix)
+  data_structures::array::run();
+
   // Sparse Polynomial
-  data_structures::sparse_polynomial::run();
+  // data_structures::sparse_polynomial::run();
+
   // Polynomial
   // data_structures::polynomial::run();
 
