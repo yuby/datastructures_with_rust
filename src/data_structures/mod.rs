@@ -10,4 +10,5 @@ pub mod string_adt;
 pub mod polynomial;
 pub mod sparse_polynomial;
 pub mod array;
+pub mod dynamic_array;
 // pub mod linked_list;

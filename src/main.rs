@@ -2,8 +2,10 @@ mod data_structures;
 mod problems;
 
 fn main() {
+  // Two Dimensional Array
+  data_structures::dynamic_array::run();
   // Array(Matrix)
-  data_structures::array::run();
+  // data_structures::array::run();
 
   // Sparse Polynomial
   // data_structures::sparse_polynomial::run();

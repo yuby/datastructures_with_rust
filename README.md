@@ -25,7 +25,7 @@
 - [x] <input type="checkbox" checked /> 다항식: data_structures/polynomial <br/>
 - [x] <input type="checkbox" checked /> 희소 다항식: data_structures/sparse_polynomial <br/>
 - [x] <input type="checkbox" checked /> 행렬: data_structures/array <br/>
-- [ ] 동적 배열의 배열
+- [x] <input type="checkbox" checked /> 동적 배열의 배열: data_structures/dynamic_array <br/>
 - [ ] 희소 행렬
 
 ### 챕터 4: 스택(Stack)
