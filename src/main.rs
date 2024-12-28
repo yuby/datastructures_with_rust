@@ -2,8 +2,11 @@ mod data_structures;
 mod problems;
 
 fn main() {
+  // Sparse Matrix
+  data_structures::sparse_matrix::run();
+
   // Two Dimensional Array
-  data_structures::dynamic_array::run();
+  // data_structures::dynamic_array::run();
   // Array(Matrix)
   // data_structures::array::run();
 

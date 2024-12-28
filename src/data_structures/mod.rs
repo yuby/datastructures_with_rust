@@ -11,4 +11,5 @@ pub mod polynomial;
 pub mod sparse_polynomial;
 pub mod array;
 pub mod dynamic_array;
+pub mod sparse_matrix;
 // pub mod linked_list;
